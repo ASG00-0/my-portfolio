@@ -26,7 +26,7 @@ const navItems = [
     bgColor: "#1a1a1a",
     textColor: "#fff",
     links: [
-      { label: "CV", href: "/CV.pdf", ariaLabel: "View my CV", target: "_blank" },
+      { label: "CV", href: "/AbdulmalikAlGhamdi_CV_V3.5.pdf", ariaLabel: "View my CV", target: "_blank" },
     ],
   },
   {
